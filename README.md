@@ -1,1 +1,1 @@
-# HPC---Cellular-Automaton
+# HPC-Cellular-Automaton
